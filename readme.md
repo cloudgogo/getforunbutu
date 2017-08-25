@@ -55,3 +55,9 @@ F-->|需要回退之前未删除的版本|K[执行git reset --hard 命令恢复]
 K-->G
 ```
 
+## git checkout 
+切换分支, git checkout -b  创建并切换分支
+
+
+## git branch
+查看当前分支
