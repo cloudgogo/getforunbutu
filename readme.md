@@ -60,8 +60,8 @@ K-->G
 
 
 ## git branch
-查看当前所在分支
-
+查看当前所在分支    
+git branch -d 删除分支
 
 ## git merge
 将分支合并到当前分支
